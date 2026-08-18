@@ -4,7 +4,7 @@ This repository contains my internship report and associated material from my re
 
 ## Report
 
-**[Read the Internship Report (PDF)](./Internship_Report.pdf)**
+**[Read the Internship Report (PDF)](./AG_CA_internship_report.pdf)**
 
 ## Contents
 
